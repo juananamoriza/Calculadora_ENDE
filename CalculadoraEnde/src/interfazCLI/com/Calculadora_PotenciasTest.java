@@ -8,7 +8,7 @@ class Calculadora_PotenciasTest {
 
 	@Test
 	void test() {
-		fail("Por escribir");
+		fail("Por escribir aun mejor");
 	}
 
 }
