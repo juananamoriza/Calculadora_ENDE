@@ -22,7 +22,7 @@ public class CalculadoraCLI {
 	 */
 private static void LanzarMenu() {
 	System.out.println("Bienvenido a la calculadora");
-
+	Sumar(); //debes borrarme
 }
 
 
