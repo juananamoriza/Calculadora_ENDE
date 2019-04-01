@@ -8,7 +8,7 @@ class Calculadora_PotenciasTest {
 
 	@Test
 	void test() {
-		fail("Not yet implemented");
+		fail("Por escribir");
 	}
 
 }
