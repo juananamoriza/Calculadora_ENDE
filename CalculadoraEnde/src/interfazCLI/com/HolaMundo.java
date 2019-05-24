@@ -3,10 +3,15 @@ package interfazCLI.com;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-
+	/**
+	* Esta clase es un programa con el que sacamos por pantalla el mensaje HolaMundo
+	* @author Yeray
+	**/
 public class HolaMundo {
 	
-	
+	/**
+	* Método main que saluda
+	*/
 	public static void main(String[] args) {
 		System.out.println("Hola Mundo, soy poliglota");
 		leerArchivoDeSaludos();
