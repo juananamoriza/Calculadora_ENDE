@@ -6,10 +6,16 @@ import java.io.IOException;
 
 public class HolaMundo {
 	
+<<<<<<< HEAD
 	/**
 	*
 	*Metodo principal, ejecuta el programa
 	*/
+=======
+/**
+ *No tengo muy claro como funciona
+ * */
+>>>>>>> 22393fe3a8800b329f4ec48616f25664cf8cb44c
 	public static void main(String[] args) {
 		System.out.println("Hola Mundo, soy poliglota");
 		leerArchivoDeSaludos();
