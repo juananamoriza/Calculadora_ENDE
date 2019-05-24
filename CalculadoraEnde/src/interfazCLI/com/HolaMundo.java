@@ -6,7 +6,9 @@ import java.io.IOException;
 
 public class HolaMundo {
 	
-	
+/**
+ *No tengo muy claro como funciona
+ * */
 	public static void main(String[] args) {
 		System.out.println("Hola Mundo, soy poliglota");
 		leerArchivoDeSaludos();
