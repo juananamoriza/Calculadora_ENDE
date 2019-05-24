@@ -3,10 +3,15 @@ package interfazCLI.com;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-
+/**
+ * @author Juanan
+ * @version 2.0
+ */
 public class HolaMundo {
 	
-	
+	/**
+	 * Clase que saluda
+	 */
 	public static void main(String[] args) {
 		System.out.println("Hola Mundo, soy poliglota");
 		leerArchivoDeSaludos();
